@@ -1,5 +1,5 @@
 # Notice
-Please view my Git contributions on GitLab:
+All future projects are being released on GitLab. Please view my Git contributions there:
 https://gitlab.com/jvadair
 
 ---
