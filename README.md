@@ -1,10 +1,19 @@
-# Notice
-All future projects are being released on GitLab. Please view my Git contributions there:
-https://gitlab.com/jvadair
+# Ciao!
+
+My name is James. I make lots of web services and command-line tools. Most of my projects were created to learn or play around with a specific concept or module, but some still receive updates.
+
+Languages I can write in:
+1. Python
+2. C++
+3. Java
+4. HTML
+5. CSS
+6. Visual Basic
 
 ---
 
-# Hello!
-I'm a self-learning developer (self-taught doesn't seem quite right). Here you can find stuff I make and experiment with.
+Favorite project: [pyndb](https://gitlab.com/jvadair/pyndb)
 
-Welcome to my GitHub page. On GitHub I contribute to others' projects and a few I've published here as well. However, all my new projects are on GitLab, and existing ones are mirrored there.
+Other hobbies include: reading, 3d printing, camping
+
+My primary spoken language is English, but I can also speak un po' d'Italiano.
