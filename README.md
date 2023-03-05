@@ -12,7 +12,7 @@ Languages I can write in:
 
 ---
 
-Favorite project: [pyndb](https://github.com/jvadair/pyndb)
+Favorite project: [pyntree](https://github.com/jvadair/pyntree)
 
 Other hobbies include: reading, 3d printing, camping
 
