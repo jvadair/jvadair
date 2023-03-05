@@ -1,6 +1,6 @@
 # Ciao!
 
-My name is James. I make lots of web services and command-line tools. Most of my projects were created to learn or play around with a specific concept or module, but some still receive updates.
+My name is James. I make lots of web services and command-line tools. Most of my projects were created to learn or play around with a specific concept or module, but some are designed for longer-term updates.
 
 Languages I can write in:
 1. Python
