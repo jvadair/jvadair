@@ -14,6 +14,12 @@ Languages I can write in:
 
 Favorite project: [pyntree](https://github.com/jvadair/pyntree)
 
+My domains:
+1. jvadair.com
+2. jva.systems
+3. devtrek.org
+4. theknightswhosay.me
+
 Other hobbies include: reading, 3d printing, camping
 
 My primary spoken language is English, but I can also speak un po' d'Italiano.
