@@ -9,6 +9,7 @@ Languages I can write in:
 4. HTML
 5. CSS
 6. Visual Basic
+7. Javascript
 
 ---
 
