@@ -13,6 +13,8 @@ Languages I can write in:
 
 ---
 
+Try out HashCards before it's released! https://hashcards.net
+
 Favorite project: [pyntree](https://github.com/jvadair/pyntree)
 
 My domains:
@@ -20,6 +22,7 @@ My domains:
 2. jva.systems
 3. devtrek.org
 4. theknightswhosay.me
+5. hashcards.net
 
 Other hobbies include: reading, 3d printing, camping
 
