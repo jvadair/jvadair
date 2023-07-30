@@ -26,4 +26,4 @@ My domains:
 
 Other hobbies include: reading, 3d printing, camping
 
-My primary spoken language is English, but I can also speak un po' d'Italiano.
+My primary spoken language is English 🇺🇸, ma anche posso parlare un po' in italiano 🇮🇹.
