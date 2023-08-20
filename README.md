@@ -1,22 +1,18 @@
 # Ciao!
 
-My name is James. I make lots of web services and command-line tools. Most of my projects were created to learn or play around with a specific concept or module, but some are designed for longer-term updates.
+My name is James. I make lots of web services and command-line tools. Most of my projects here were created to learn or play around with a specific concept or module, but some are designed for longer-term updates.
 
-Languages I can write in:
-1. Python
-2. C++
-3. Java
-4. HTML
-5. CSS
-6. Visual Basic
-7. Javascript
-8. Godot
+I :heart: Linux and open source!
+
+Technologies I've worked with:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,py,cpp,java,linux,flask,html,css,jquery,bash,cloudflare,discord,bots,gcp,github,gitlab,godot,md,raspberrypi,replit,stackoverflow,vscode,idea," />
+</p>
 
 ---
 
-Try out HashCards before it's released! https://hashcards.net
-
-Favorite project: [pyntree](https://github.com/jvadair/pyntree)
+Try out HashCards before it's released! :arrow_right: https://hashcards.net
 
 My domains:
 1. jvadair.com
