@@ -12,7 +12,7 @@ Technologies I've worked with:
 
 ---
 
-Try out HashCards before it's released! :arrow_right: https://hashcards.net
+Try out HashCards! :arrow_right: https://hashcards.net
 
 My domains:
 1. jvadair.com
