@@ -14,11 +14,12 @@ Technologies I've worked with:
 
 Try out HashCards! :arrow_right: https://hashcards.net
 
+HashCards is a new web-based flashcard service with no ads or paywalls.
+
 My domains:
 1. jvadair.com
 2. jva.systems
 3. devtrek.org
-4. theknightswhosay.me
 5. hashcards.net
 
 Other hobbies include: reading, 3d printing, camping
