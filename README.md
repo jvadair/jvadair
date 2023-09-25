@@ -12,11 +12,11 @@ Technologies I've worked with:
 
 ---
 
-Try out HashCards! :arrow_right: https://hashcards.net
+### Try out HashCards! :arrow_right: https://hashcards.net
 
 HashCards is a new web-based flashcard service with no ads or paywalls.
 
-My domains:
+### My domains
 1. jvadair.com
 2. jva.systems
 3. devtrek.org
