@@ -24,4 +24,4 @@ HashCards is a new web-based flashcard service with no ads or paywalls.
 
 Other hobbies include: reading, 3d printing, camping
 
-My primary spoken language is English 🇺🇸, ma anche posso parlare un po' in italiano 🇮🇹.
+My primary spoken language is English 🇺🇸, ma anche posso parlare in italiano 🇮🇹.
