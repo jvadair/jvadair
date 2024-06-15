@@ -17,7 +17,6 @@ Technologies I've worked with:
 ### My domains
 1. jvadair.com
 2. jva.systems
-3. devtrek.org (soon to be deprecated)
 5. hashcards.net
 
 Other hobbies include: reading, 3d printing, camping
