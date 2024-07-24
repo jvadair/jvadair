@@ -7,7 +7,7 @@ I :heart: Linux and open source!
 Technologies I've worked with:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,py,cpp,c,java,linux,flask,html,css,javascript,jquery,bash,cloudflare,discord,bots,gcp,github,gitlab,godot,md,raspberrypi,replit,stackoverflow,vscode,idea,flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=git,py,cpp,c,java,linux,flask,html,css,javascript,jquery,bash,cloudflare,discord,bots,gcp,github,gitlab,godot,md,raspberrypi,replit,stackoverflow,vscode,idea,flutter,dart,mysql" />
 </p>
 
 ---
