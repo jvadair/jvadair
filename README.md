@@ -3,6 +3,7 @@
 My name is James. I am currently earning a BS in computer science. I make lots of web services, command-line tools, and, recently, miscellanious microcontroller-based projects. Most of my projects here were created to learn or play around with a specific concept or module, but some are designed for longer-term updates. I also spend a lot of time maintaining a series of web services running on my collection of old laptops.
 
 What I'm working on right now (unless I forgot to update this):
+- Stella (formerly Scribbl): A $30 DIY smartwatch for hobbyists, students, or people on a tight budget.
 - Chiave: A password assistant (***not*** a password manager) that lets you use your favorite passwords on any site while meeting security requirements. Also helps with 2FA, etc.
 - PrismFrame: An epaper-based photo frame that automatically syncs a PhotoPrism album from your server.
 
