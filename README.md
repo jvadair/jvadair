@@ -10,7 +10,7 @@ What I'm working on right now (unless I forgot to update this):
 Technologies I've worked with:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,py,cpp,c,java,linux,flask,html,css,javascript,jquery,bash,cloudflare,discord,bots,gcp,github,gitlab,godot,md,raspberrypi,replit,stackoverflow,vscode,idea,flutter,dart,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,py,cpp,c,java,linux,flask,html,css,javascript,jquery,bash,cloudflare,debian,discord,bots,gcp,github,gitlab,godot,md,raspberrypi,replit,stackoverflow,vscode,idea,clion,pycharm,flutter,dart,mysql,qt" />
 </p>
 
 ---
